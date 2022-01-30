@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-downloader-helper": "^1.0.19",
+    "terminal-procedures": "^1.0.5"
+  }
+}
